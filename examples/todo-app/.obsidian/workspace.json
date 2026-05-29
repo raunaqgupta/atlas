@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "d023571029c7d762",
+    "type": "split",
+    "children": [
+      {
+        "id": "861cf3580a500dee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bd8fc4cc7817a28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jobs/Capture an idea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Capture an idea"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6fab52efafd25ee2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bd2a9552067263a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9ce671c8329d699",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "30aa81786fc9ae21",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "aa9e0f6ed51108ac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 396.5
+  },
+  "right": {
+    "id": "b930e504e545ad79",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd70345c42cc271c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88395fccb8816d76",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "jobs/Capture an idea.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Capture an idea"
+            }
+          },
+          {
+            "id": "bc24fa97ff94196a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "jobs/Capture an idea.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Capture an idea"
+            }
+          },
+          {
+            "id": "fd6a3c7fbf8fc9bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "jobs/Capture an idea.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Capture an idea"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 591.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1bd8fc4cc7817a28",
+  "lastOpenFiles": [
+    "jobs/Remember at the right time.md",
+    "jobs/Triage my inbox.md",
+    "jobs/Plan my week.md",
+    "jobs/Collaborate on a task.md",
+    "jobs/Capture an idea.md",
+    "Templates/Job.md",
+    "Templates/Entity.md",
+    "entities/Comment.md",
+    "entities/Untitled.md",
+    "jobs/CaptureAnIdea.md",
+    "jobs/CollaborateOnATask.md",
+    "jobs/RememberAtTheRightTime.md",
+    "jobs/TriageMyInbox.md",
+    "jobs/PlanMyWeek.md",
+    "jobs",
+    "entities/User.md",
+    "Templates",
+    "entities/TaskTag.md",
+    "entities/Tag.md",
+    "entities/Task.md",
+    "entities/Reminder.md",
+    "entities/Project.md",
+    "Entity 1.md",
+    "two.md",
+    "entities",
+    "objects/one.md",
+    "objects/Comment.md",
+    "objects/Project.md",
+    "objects/User.md",
+    "objects/Comment.md.sb-c9fc51a1-KqzQX4",
+    "objects"
+  ]
+}
